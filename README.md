@@ -19,4 +19,15 @@ Fork this repo and submit pull requests, also contribute to the group.
 Getting started
 ---------------
 
-Instructions can be found in the README at https://koding.com/bingo-machine
+##Prerequisites
+* You will need a license for impact.js costing $99 http://impactjs.com/buy-impact
+* Asset resources for images and sound
+* A https://firebase.com database
+
+> *Contact @andygold99 for asset resources*
+
+Thanks
+
+Andy
+
+
