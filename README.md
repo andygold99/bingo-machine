@@ -26,6 +26,12 @@ Getting started
 
 > *Contact @andygold99 for asset resources*
 
+##Setting up
+
+Once you have cloned your forked repo, open up bingo-machine/lib/game/bm.js and amend the firebaseRoot to point to your firebase database.
+
+The asset resources media folder when you get one, needs to go in the root of bingo-machine.
+
 Thanks
 
 Andy
